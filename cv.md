@@ -29,4 +29,4 @@ function multiply(a, b){
 }
 ```
 ## Completed projects
-CV
+1. [CV](https://verazhukova.github.io/rsschool-cv/cv)
